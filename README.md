@@ -25,3 +25,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+### :man_technologist: About Me :
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: Second-year student at Bauman University, majoring in applied computer science
+
+- :seedling: Studying additional backend materials 
+
+- :zap: In my free time, I solve problems on Дууесщву and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/Timurkassss)
