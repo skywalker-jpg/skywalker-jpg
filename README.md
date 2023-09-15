@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/8rXFAsQHtTUAAAAC/%D1%80%D0%B0%D0%B9%D0%B0%D0%BD-%D0%B3%D0%BE%D1%81%D0%BB%D0%B8%D0%BD%D0%B3-ryan-gosling.gif/>
+  <img src="https://gifer.com/embed/9bg" width="100"/>
 </div>
