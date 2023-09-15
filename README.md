@@ -13,3 +13,5 @@
     <img src=https://img.shields.io/badge/Gitlab-purple?logo=Gitlab&logoColor=orange&style=for-the-badge alt="Gitlab Badge"/>
   </a>  
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=skywalker-jpg&style=flat-square&color=blue" alt=""/>
