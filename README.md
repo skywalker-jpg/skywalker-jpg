@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center"">
-  <a href="https://t.me/@Timurkassss">
+  <a href="https://t.me/Timurkassss">
     <img src=https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge alt="Telegram Badge"/>
   </a>
   <a href="https://leetcode.com/nag1bator228/">
